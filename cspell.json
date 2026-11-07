@@ -1,0 +1,23 @@
+{
+  "version": "0.2",
+  "language": "en,pt-BR",
+  "ignorePaths": ["node_modules/**", ".expo/**", "package-lock.json"],
+  "words": [
+    "autoCapitalize",
+    "autoComplete",
+    "bunx",
+    "fixacao",
+    "formulario",
+    "KeyboardAvoidingView",
+    "keyboardType",
+    "kotlin",
+    "mobileprovision",
+    "React Native",
+    "SafeAreaView",
+    "ScrollView",
+    "secureTextEntry",
+    "StatusBar",
+    "TextInput",
+    "useState"
+  ]
+}
