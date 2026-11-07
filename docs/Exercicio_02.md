@@ -1,4 +1,4 @@
-# Exercício 2 — Validação na mão
+# Exercício 02 — Validação na mão
 
 ## Objeto de erros · 20 minutos
 

@@ -1,4 +1,4 @@
-# Exercício 1 — Tela de cadastro
+# Exercício 01 — Tela de cadastro
 
 ## TextInput · 15 minutos
 

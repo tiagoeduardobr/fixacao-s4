@@ -1,4 +1,4 @@
-# Exercício 2 — O cadastro com Zod
+# Exercício 04 — O cadastro com Zod
 
 ## Zod · 20 minutos
 

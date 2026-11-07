@@ -1,4 +1,4 @@
-# Exercício 1 — O cadastro com React Hook Form
+# Exercício 03 — O cadastro com React Hook Form
 
 ## React Hook Form · 15 minutos
 
